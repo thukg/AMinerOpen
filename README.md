@@ -10,13 +10,16 @@ And this repo is on construction...
 
 ## Word Embeddings
 
+[[repo]](https://github.com/AMinerOpen/AWOE)
+
 * Chinese and English pre-trained word embeddings based on 2 billion publication titles and abstracts
 * Chinese and English pre-trained key word embeddings based on 2 billion publication key words
 * Cross-lingual academic word (or key word) embeddings (Chinese-English)
 
 ## NSFC Related
 
-* Text classifier of NSFC disciplines
+
+* Text classifier of NSFC disciplines [[repo]](https://github.com/AMinerOpen/prediction_api)
 * Academic key words extraction (or recommendation) from raw text
 
 ## Information Extraction
